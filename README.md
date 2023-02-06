@@ -1,5 +1,5 @@
 # Credit-Card-Default-Prediction
-SUPERVISED MACHINE LEARNING CLASSIFICATION CAPSTONE PROJECT
+Supervised Machine Learning Classification Project
 
 
 Project Title : Predicting whether a customer will default on his/her credit card
